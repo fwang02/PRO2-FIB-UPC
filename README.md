@@ -22,3 +22,4 @@ doxygen
 ```
 ## Funcionalidades
 ---
+[Enunciado de la práctica](https://github.com/fwang02/PRO2-FIB-UPC/blob/master/enunQT2022.pdf)
