@@ -1,7 +1,7 @@
-# Práctica-PRO2-FIB-UPC
+# Práctica-PRO2
 ## Introducción
 
-Código de la práctica de PRO2 del cuatrimestre otoño 2022.
+Código de la práctica de PRO2 del cuatrimestre otoño de 2022.
 
 El enunciado de la práctica es **"Encriptación de mensajes"**.
 
